@@ -1,17 +1,30 @@
-<<<<<<< HEAD
-# React + Vite
+# 🍕 Food Delivery Website – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive and visually engaging **Food Delivery Web App frontend** built using **React.js**, **HTML5**, **CSS3**, and **JavaScript**. This project showcases an attractive UI for browsing food items, viewing categories, and managing the cart — built with modern frontend practices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🍔 Interactive home page with featured menu items
+- 🔍 Explore menu by category
+- 🛒 Add to cart and adjust quantity
+- 🧾 View cart summary
+- 🖼️ Food item cards with images, ratings, and prices
+- 📱 Fully responsive design using CSS Flexbox & Grid
+- 🎨 Clean layout with smooth user experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Food-Delivery-Website
-I create a food delivery website using Html, css, javascript, React.js and And backend Also using express mongoDB
->>>>>>> 51eff10b87dd3440d98841bba37f4b1b929ddd19
+---
+
+## 🛠 Tech Stack
+
+- React.js (with Hooks & Components)
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite (for fast development & hot reloading)
+
+---
+
+## 📂 Project Structure
+
